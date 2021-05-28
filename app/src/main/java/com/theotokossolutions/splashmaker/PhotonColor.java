@@ -1,4 +1,4 @@
-package com.example.splashmaker;
+package com.theotokossolutions.splashmaker;
 
 public class PhotonColor {
     byte red;

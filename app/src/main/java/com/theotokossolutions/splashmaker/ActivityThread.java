@@ -1,11 +1,10 @@
-package com.example.splashmaker;
+package com.theotokossolutions.splashmaker;
 
 import android.util.Log;
-import android.widget.ImageView;
 
 public class ActivityThread extends Thread {
     private MainActivity main;
-    private boolean isRunning;
+    public boolean isRunning;
 
     public ActivityThread(MainActivity main){
         this.main = main;

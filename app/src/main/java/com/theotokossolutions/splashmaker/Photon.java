@@ -1,6 +1,4 @@
-package com.example.splashmaker;
-
-import android.graphics.Color;
+package com.theotokossolutions.splashmaker;
 
 public class Photon {
     //Instance Variables

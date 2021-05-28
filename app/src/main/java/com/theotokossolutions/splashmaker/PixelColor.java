@@ -1,4 +1,4 @@
-package com.example.splashmaker;
+package com.theotokossolutions.splashmaker;
 
 public class PixelColor {
     int red;
@@ -8,7 +8,7 @@ public class PixelColor {
     int weight;
 
     enum Status{
-        NO_DRAW, WAS_DRAWN, WAS_DRAWN2, DRAW
+        NO_DRAW, WAS_DRAWN, DRAW
     }
     Status status;
 
